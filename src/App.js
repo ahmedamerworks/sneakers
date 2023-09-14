@@ -5,6 +5,7 @@ import {
   Routes as Switch,
   Route,
 } from "react-router-dom";
+import Home from "./components/home/Home";
 import "./App.css";
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path="/" exact />
+          <Route path="/" exact element={<Home />} />
         </Switch>
       </Router>
     </>
