@@ -1,6 +1,6 @@
 .cards {
   padding: 4rem;
-  background: #fff;
+  background: var(--color-tertiary);
 }
 
 h2 {
@@ -11,7 +11,7 @@ h2 {
 
 .cards-container {
   display: flex;
-  background: #fff;
+  background: var(--color-tertiary);
   flex-flow: column;
   align-items: center;
   max-width: 1120px;
@@ -98,7 +98,7 @@ h2 {
 }
 
 .cards-item_info-text {
-  color: #fff;
+  color: var(--color-tertiary);
   letter-spacing: 0.1rem;
   font-size: 18px;
   line-height: 24px;

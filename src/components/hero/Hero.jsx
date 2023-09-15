@@ -14,8 +14,9 @@ const Hero = () => {
             className="btns"
             buttonStyle="btn--outline"
             buttonSize="btn--large"
+            link="/product"
           >
-            Get Started
+            Look Inside the Vault
           </Button>
           {/* <Button
             className="btns"

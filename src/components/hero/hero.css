@@ -7,9 +7,9 @@ video {
 }
 
 h1 {
-  color: #fff;
+  color: var(--color-tertiary);
   font-size: 60px;
-  transform: translateY(-150px);
+  transform: translateY(-50px);
 }
 
 .hero-container {
@@ -53,7 +53,7 @@ h1 {
   }
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   video {
     display: none;
   }
@@ -61,4 +61,4 @@ h1 {
     background: url(../../images/sneakers_nike_green.jpg);
     background-size: cover;
   }
-}
+} */

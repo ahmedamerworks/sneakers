@@ -29,7 +29,7 @@ const Navbar = () => {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-            SNKR HV <i className="fas fa-solid fa-meteor" />
+            Hive 22 <i className="fas fa-solid fa-meteor" />
           </Link>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />
@@ -72,7 +72,11 @@ const Navbar = () => {
               </Link>
             </li>
           </ul>
-          {button && <Button buttonStyle="btn--outline">SIGN UP</Button>}
+          {button && (
+            <Button buttonStyle="btn--outline" link="/signup">
+              SIGN UP
+            </Button>
+          )}
         </div>
       </nav>
     </>
