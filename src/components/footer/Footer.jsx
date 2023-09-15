@@ -24,7 +24,7 @@ const Footer = () => {
             </form>
           </div>
         </section>
-        <div className="footer-links">
+        <div className="footer-link">
           <div className="footer-link_wrapper">
             <div className="footer-link_item">
               <h2>About Us</h2>

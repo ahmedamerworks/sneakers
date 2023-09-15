@@ -3,7 +3,7 @@
   background: var(--color-tertiary);
 }
 
-h2 {
+.cards > h2 {
   text-align: center;
   color: #242424;
   font-size: 45px;
