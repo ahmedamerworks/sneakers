@@ -55,7 +55,7 @@ const Navbar = () => {
             </li>
             <li className={click ? "nav-links" : "nav-links text-focus-in"}>
               <Link
-                to="/products"
+                to="/product"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
@@ -64,7 +64,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <Link
-                to="/sign-up"
+                to="/signup"
                 className="nav-links-mobile"
                 onClick={closeMobileMenu}
               >

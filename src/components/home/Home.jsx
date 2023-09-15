@@ -1,5 +1,6 @@
 import "../../App.css";
 import Cards from "../cards/Cards";
+import Footer from "../footer/Footer";
 import Hero from "../hero/Hero";
 
 function Home() {
@@ -7,6 +8,7 @@ function Home() {
     <>
       <Hero />
       <Cards />
+      <Footer />
     </>
   );
 }

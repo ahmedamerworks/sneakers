@@ -8,7 +8,7 @@ const Hero = () => {
     <>
       <div className="hero-container">
         <video src={sneakerVid} autoPlay loop muted />
-        <h1>DIVE INTO COMFORT</h1>
+        <h1>Dive Into Comfort</h1>
         <div className="hero-buttons">
           <Button
             className="btns"
