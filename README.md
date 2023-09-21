@@ -1,10 +1,10 @@
-# Welcome to project Sneakers
+# Welcome to Project Sneakers
 
-This is a web development project for a fictional sneaker's brand - Brand 22.
+This is a web development project for a fictional sneaker brand - Brand 22. [Click here for a live demo!](https://ahmedamerworks-sneakers.netlify.app/)
 
 ## Tools of the trade
 
-I am using React.js along with react router to design the structure and layout as well as minimal CSS to style.
+I am using React.js along with React Router to design the structure and layout as well as minimal CSS to style.
 
 ## Key Notes
 
