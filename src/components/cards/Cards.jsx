@@ -11,7 +11,7 @@ function Cards() {
   return (
     <>
       <div className="cards">
-        <h2>Brand 22</h2>
+        {/* <h2>Brand 22</h2> */}
         <div className="cards-container">
           <div className="cards-wrapper">
             <ul className="cards-items">

@@ -11,7 +11,7 @@ const Footer = () => {
           <p className="footer-subscription_heading">
             Join our newsletter to recieve our best deals on comfort!
           </p>
-          <p className="footer-subscription_text">text2</p>
+          {/* <p className="footer-subscription_text">text2</p> */}
           <div className="input-areas">
             <form action="">
               <input

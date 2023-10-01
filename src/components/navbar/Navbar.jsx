@@ -53,10 +53,10 @@ const Navbar = () => {
                 Brand 22
               </Link>
             </li>
-            <li className={click ? "nav-links" : "nav-links text-focus-in"}>
+            <li className="nav-item">
               <Link
                 to="/product"
-                className="nav-links"
+                className={click ? "nav-links" : "nav-links text-focus-in"}
                 onClick={closeMobileMenu}
               >
                 Products
