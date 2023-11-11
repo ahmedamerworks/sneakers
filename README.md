@@ -14,8 +14,5 @@ The pages {Brand, Products, Signup} still need to be constructed.
 
 ## Current Project Needs
 
-- The first card's background breaks a little in full window resolution.
-
-- The navbar items in full resolution are not on the same line.
-
-- The links in the footer are all unfunctional - all link to the homepage for now.
+- Fill in the pages with appropriate content.
+- Add a functional sign-up page.
